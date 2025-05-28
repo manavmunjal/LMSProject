@@ -1,0 +1,1 @@
+insert into employee_master values ('E0001','Bob','Manager','IT','M','1995-05-01','2021-05-02'), ('E0002','Dylan','CA','Finance','M','1993-02-03','2019-02-06'), ('E0003','Tara','DGM','Sales','F','1997-07-10','2015-03-11'),('E0004','Barney','Associate','HR','M','1991-10-11','2022-07-08')

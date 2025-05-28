@@ -1,0 +1,1 @@
+insert into categories values ('Furniture'),('Crockery'),('Stationery');

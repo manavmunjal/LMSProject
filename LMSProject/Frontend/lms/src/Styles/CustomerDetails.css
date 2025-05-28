@@ -1,0 +1,29 @@
+.customer_details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+}
+
+.employee_details{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:15px;
+    margin: 10px;
+    min-width: 33%;
+}
+
+.employee_detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+    
+}
+
+.employee_field{
+    padding-right:10px;
+}
